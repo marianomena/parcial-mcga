@@ -19,7 +19,7 @@ Mena, Mariano
 
 + Enlace a [Mariano Productos](feature/Productos) para visualizar el repo.
 
-+ Enlace a [Ulises Proveedores](feature/proveedores) para visualizar el repo.
++ Enlace a [Ulises Proveedores](feature/proveedores) para visualizar el repos.
 
 
 # Link Rama Development
