@@ -15,9 +15,9 @@ Mena, Mariano
 
 # Link feature branch
 
-+ Enlace a [Marcos Locales](feature/locales) para visualizar el repo.
++ Enlace a [Marcos Locales](feature/locales) para visualizar el repos.
 
-+ Enlace a [Mariano Productos](feature/Productos) para visualizar el repo.
++ Enlace a [Mariano Productos](feature/Productos) para visualizar el repos.
 
 + Enlace a [Ulises Proveedores](feature/proveedores) para visualizar el repos.
 
