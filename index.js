@@ -37,5 +37,10 @@ app.use("/api/locales/", localesRoutes);
 
 app.listen(PORT, () =>{
 	console.log("escuchando puerto 5000")
+});
+
+app.get('/', (req, res) => {
+	res.send('server ok');
 })
+
 
